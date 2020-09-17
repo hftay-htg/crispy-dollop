@@ -3,7 +3,7 @@
 
 Instructions:
 
-Given a number, return the next bigger number using the same digits. For example:
+Given a number, write a function that returns the next bigger number using the same digits. For example:
 
 ```
 12 ==> 21
